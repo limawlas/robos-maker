@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/limawlas/robos-maker/issues"
   },
-  "homepage": "https://github.com/limawlas/robos-maker#readme"
+  "homepage": "https://github.com/limawlas/robos-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
